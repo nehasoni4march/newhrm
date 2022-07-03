@@ -1,0 +1,9 @@
+archive/
+.pytest_cache/
+venv/
+output.json
+*.html
+.idea/
+__pycache__/
+
+
